@@ -1,26 +1,26 @@
 # TMCP
 
-## 项目介绍
-TMCP（Try to learn the MCP server）是一个学习和探索MCP服务器功能的项目。
+## Project Introduction
+TMCP (Try to learn the MCP server) is a project for learning and exploring MCP server functionality.
 
-## 功能特点
-- MCP服务器学习
-- 功能探索与测试
-- 开发工具集成
+## Features
+- MCP server learning
+- Feature exploration and testing
+- Development tool integration
 
-## 开始使用
+## Getting Started
 ```bash
-# 克隆仓库
+# Clone the repository
 git clone https://github.com/Zdmai/TMCP.git
 
-# 进入项目目录
+# Enter the project directory
 cd TMCP
 
-# 开始探索
+# Start exploring
 ```
 
-## 贡献指南
-欢迎提交问题和功能请求。如需重大更改，请先打开一个issue讨论您想要更改的内容。
+## Contribution Guidelines
+Issues and feature requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## 许可证
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
